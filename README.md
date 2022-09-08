@@ -1,3 +1,7 @@
+# Setting Up ESP32-S2 Metro Board
+
+https://www.youtube.com/watch?v=8JJkAxRp8cw&t=484s
+
 # Led-Strip-PWM
 Control a Led Strip with PWM (Pulse Width Modulation)
 
