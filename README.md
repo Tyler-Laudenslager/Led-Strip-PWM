@@ -1,5 +1,6 @@
 # Setting Up ESP32-S2 Metro Board
 
+CircuitPython Setup On The ESP32s2 | HakByte
 https://www.youtube.com/watch?v=8JJkAxRp8cw&t=484s
 
 # Led-Strip-PWM
