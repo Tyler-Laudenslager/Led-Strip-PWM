@@ -1,3 +1,8 @@
+#https://learn.adafruit.com/rgb-led-strips
+#Code Below is Based on Tutorial Above
+#2022 Tyler Laudenslager
+#Circuit Python 7.*
+
 import board
 import pwmio
 import time
