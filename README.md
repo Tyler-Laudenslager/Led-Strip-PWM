@@ -13,4 +13,5 @@ Control 12v LED strip from Arduino using a N-channel Mosfet
 https://www.youtube.com/watch?v=sVyi7yWuXxs&t=296s
 
 
-![Led-Strip-PWM](https://user-images.githubusercontent.com/61608238/189163312-7be9c60c-12e5-4028-80a0-6f04235db060.png)
+
+![Led-Strip-PWM](https://user-images.githubusercontent.com/61608238/189164086-29099872-69ab-4426-bffe-61536c47d8f3.png)
