@@ -15,3 +15,9 @@ https://www.youtube.com/watch?v=sVyi7yWuXxs&t=296s
 
 
 ![Led-Strip-PWM](https://user-images.githubusercontent.com/61608238/189164086-29099872-69ab-4426-bffe-61536c47d8f3.png)
+
+
+
+
+https://user-images.githubusercontent.com/61608238/189164729-f810a5b3-f10e-44ed-a5b7-9685b07200ab.MOV
+
