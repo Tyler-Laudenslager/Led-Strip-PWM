@@ -1,8 +1,3 @@
-# Setting Up ESP32-S2 Metro Board
-
-CircuitPython Setup On The ESP32s2 | HakByte
-https://www.youtube.com/watch?v=8JJkAxRp8cw&t=484s
-
 # Led-Strip-PWM
 Control a Led Strip with PWM (Pulse Width Modulation)
 
@@ -17,6 +12,8 @@ Control a Led Strip with PWM (Pulse Width Modulation)
 Control 12v LED strip from Arduino using a N-channel Mosfet
 https://www.youtube.com/watch?v=sVyi7yWuXxs&t=296s
 
+CircuitPython Setup On The ESP32s2 | HakByte
+https://www.youtube.com/watch?v=8JJkAxRp8cw&t=484s
 
 
 ![Led-Strip-PWM](https://user-images.githubusercontent.com/61608238/189164086-29099872-69ab-4426-bffe-61536c47d8f3.png)
