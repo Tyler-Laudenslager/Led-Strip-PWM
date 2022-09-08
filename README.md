@@ -11,3 +11,6 @@ Control a Led Strip with PWM (Pulse Width Modulation)
 
 Control 12v LED strip from Arduino using a N-channel Mosfet
 https://www.youtube.com/watch?v=sVyi7yWuXxs&t=296s
+
+
+![Led-Strip-PWM](https://user-images.githubusercontent.com/61608238/189163312-7be9c60c-12e5-4028-80a0-6f04235db060.png)
