@@ -19,8 +19,5 @@ https://www.youtube.com/watch?v=sVyi7yWuXxs&t=296s
 
 
 
-
-
-
-https://user-images.githubusercontent.com/61608238/189165399-b43177c0-55c4-4202-814f-545df5d11420.mp4
+https://user-images.githubusercontent.com/61608238/189165976-9290f398-6e3c-4614-8e41-9f5d5bac9525.mp4
 
