@@ -8,6 +8,8 @@ import pwmio
 import time
 
 #A3 bin on Metro ESP32-S2
+#Any compatible microcontroller board that
+#supports circuit python and has pwm support will do
 led = pwmio.PWMOut(board.A3)
 
 while True:
